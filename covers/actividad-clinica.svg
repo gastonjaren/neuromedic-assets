@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="400" viewBox="0 0 680 170">
+  <rect width="680" height="170" fill="#f5f7fc"/>
+  <rect x="0" y="0" width="680" height="3" fill="#185FA5"/>
+  <line x1="30" y1="85" x2="680" y2="85" stroke="#dde6f2" stroke-width="0.5"/>
+  <polyline points="30,85 80,85 96,85 104,44 112,126 120,56 128,104 136,85 230,85 680,85" fill="none" stroke="#c8d8f0" stroke-width="1.5"/>
+  <polyline points="30,85 80,85 96,85 104,44 112,126 120,56 128,104 136,85 185,85" fill="none" stroke="#185FA5" stroke-width="2"/>
+  <circle cx="104" cy="44" r="3" fill="#185FA5"/>
+  <text x="260" y="70" font-family="Arial,sans-serif" font-size="10" fill="#185FA5" letter-spacing="3">MÓDULO</text>
+  <text x="258" y="98" font-family="Georgia,serif" font-size="22" fill="#0d1424" letter-spacing="1">Actividad clínica</text>
+  <text x="258" y="118" font-family="Arial,sans-serif" font-size="10" fill="#9aa4b8">Pacientes · Cirugías · Cirujanos · Procedimientos</text>
+</svg>

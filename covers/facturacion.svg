@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="400" viewBox="0 0 680 170">
+  <rect width="680" height="170" fill="#f5fbf8"/>
+  <rect x="0" y="0" width="680" height="3" fill="#1D9E75"/>
+  <rect x="40" y="92" width="16" height="48" fill="#d0eee4" rx="2"/>
+  <rect x="62" y="74" width="16" height="66" fill="#d0eee4" rx="2"/>
+  <rect x="84" y="58" width="16" height="82" fill="#9FE1CB" rx="2"/>
+  <rect x="106" y="44" width="16" height="96" fill="#1D9E75" rx="2"/>
+  <rect x="128" y="68" width="16" height="72" fill="#d0eee4" rx="2"/>
+  <rect x="150" y="52" width="16" height="88" fill="#9FE1CB" rx="2"/>
+  <rect x="172" y="80" width="16" height="60" fill="#d0eee4" rx="2"/>
+  <line x1="36" y1="144" x2="202" y2="144" stroke="#9FE1CB" stroke-width="0.5"/>
+  <text x="258" y="70" font-family="Arial,sans-serif" font-size="10" fill="#1D9E75" letter-spacing="3">MÓDULO</text>
+  <text x="256" y="98" font-family="Georgia,serif" font-size="22" fill="#0d1424" letter-spacing="1">Facturación</text>
+  <text x="256" y="118" font-family="Arial,sans-serif" font-size="10" fill="#9aa4b8">Facturas · Cobros · Presupuestos · Licitaciones</text>
+</svg>

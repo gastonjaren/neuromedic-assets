@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="400" viewBox="0 0 680 170">
+  <rect width="680" height="170" fill="#fdfaf4"/>
+  <rect x="0" y="0" width="680" height="3" fill="#BA7517"/>
+  <circle cx="128" cy="85" r="72" fill="none" stroke="#f0e0b8" stroke-width="1"/>
+  <circle cx="128" cy="85" r="54" fill="none" stroke="#efd5a0" stroke-width="1"/>
+  <circle cx="128" cy="85" r="36" fill="none" stroke="#e4b84a" stroke-width="0.5"/>
+  <circle cx="128" cy="85" r="18" fill="none" stroke="#BA7517" stroke-width="1"/>
+  <circle cx="128" cy="85" r="5" fill="#BA7517"/>
+  <line x1="128" y1="13" x2="128" y2="22" stroke="#e4b84a" stroke-width="0.5"/>
+  <line x1="128" y1="148" x2="128" y2="157" stroke="#e4b84a" stroke-width="0.5"/>
+  <line x1="56" y1="85" x2="65" y2="85" stroke="#e4b84a" stroke-width="0.5"/>
+  <line x1="191" y1="85" x2="200" y2="85" stroke="#e4b84a" stroke-width="0.5"/>
+  <text x="258" y="70" font-family="Arial,sans-serif" font-size="10" fill="#BA7517" letter-spacing="3">MÓDULO</text>
+  <text x="256" y="98" font-family="Georgia,serif" font-size="22" fill="#0d1424" letter-spacing="1">Esterilización</text>
+  <text x="256" y="118" font-family="Arial,sans-serif" font-size="10" fill="#9aa4b8">Protocolos · Trazabilidad · QR · Etiquetas</text>
+</svg>
